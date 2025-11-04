@@ -1,4 +1,4 @@
-# 💻 Excel VBA Programming Mastery Series  
+# 💻 Excel VBA Programming Mastery
 
 I’m excited to present my **Excel VBA Programming Course**, a structured journey into automating Excel, building intelligent solutions, and learning the core of **Visual Basic for Applications (VBA)**.  
 
