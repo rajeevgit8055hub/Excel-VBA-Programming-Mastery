@@ -138,7 +138,7 @@ Build complete solutions using **UserForms**, **Outlook Integration**, and **Web
 
 ---
 
-## 🙏 Special Thanks  
+## 🤝 Special Thanks  
 
 Gratitude to **Mr. Satish Dhawale sir**, CEO & Founder of *Skill Course* and learning community for inspiring this continuous journey in **Excel Automation and Programming**.  
 
@@ -146,7 +146,20 @@ Let’s **Code. Automate. Excel.** 🚀
 
 ---
 
-### 🏷️ Hashtags  
+## 📬 Connect with Me 
 
-`#ExcelVBA` `#Automation` `#CodingInExcel` `#DataAnalytics`  
-`#Productivity` `#OfficeAutomation` `#LearningJourney`
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## 📸 Project Preview
+
+![IDC-SQL-Challenge](Excel-VBA.png)
+
+---
+
