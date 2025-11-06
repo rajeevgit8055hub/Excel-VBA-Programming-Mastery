@@ -46,7 +46,7 @@ Build complete solutions using **UserForms**, **Outlook Integration**, and **Web
 | ✅ D4 | Dynamic Copy Code Of VBA | [VBA_D4.md](VBA_D4.md) |
 | ✅ D5 | Offset Command | [VBA_D5.md](VBA_D5.md) |
 | ✅ D6 | Project On Copy Paste | [VBA_D6.md](VBA_D6.md) |
-| D7 | InputBox And MessageBox | [VBA_D7.md](VBA_D7.md) |
+| ✅ D7 | InputBox And MsgBox | [VBA_D7.md](VBA_D7.md) |
 | D8 | Variable Types | [VBA_D8.md](VBA_D8.md) |
 | D9 | Option Explicit | [VBA_D9.md](VBA_D9.md) |
 | D10 | If Condition | [VBA_D10.md](VBA_D10.md) |
