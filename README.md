@@ -47,9 +47,9 @@ Build complete solutions using **UserForms**, **Outlook Integration**, and **Web
 | ✅ D5 | Offset Command | [VBA_D5.md](VBA_D5.md) |
 | ✅ D6 | Project On Copy Paste | [VBA_D6.md](VBA_D6.md) |
 | ✅ D7 | InputBox And MsgBox | [VBA_D7.md](VBA_D7.md) |
-| D8 | Variable Types | [VBA_D8.md](VBA_D8.md) |
-| D9 | Option Explicit | [VBA_D9.md](VBA_D9.md) |
-| D10 | If Condition | [VBA_D10.md](VBA_D10.md) |
+| ✅ D8 | Variable Types | [VBA_D8.md](VBA_D8.md) |
+| ✅ D9 | Option Explicit | [VBA_D9.md](VBA_D9.md) |
+| ✅ D10 | If Condition | [VBA_D10.md](VBA_D10.md) |
 | D11 | If Condition With AND | [VBA_D11.md](VBA_D11.md) |
 | D12 | If Condition With OR | [VBA_D12.md](VBA_D12.md) |
 | D13 | Nested If Condition | [VBA_D13.md](VBA_D13.md) |
