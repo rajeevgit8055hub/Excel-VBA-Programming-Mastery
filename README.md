@@ -54,8 +54,8 @@ Build complete solutions using **UserForms**, **Outlook Integration**, and **Web
 | ✅ D12 | If Condition With OR | [VBA_D12.md](VBA_D12.md) |
 | ✅ D13 | Nested If Condition | [VBA_D13.md](VBA_D13.md) |
 | ✅ D14 | Project On If | [VBA_D14.md](VBA_D14.md) |
-| ✅ D15 | For Next Loop | [VBA_D15.md](VBA_D15.md) |
-| D16 | For Loop Decrement Method | [VBA_D16.md](VBA_D16.md) |
+| ✅ D15 | For Next Loop Increment | [VBA_D15.md](VBA_D15.md) |
+| ✅ D16 | For Loop Decrement Method | [VBA_D16.md](VBA_D16.md) |
 | D17 | Do While Loop | [VBA_D17.md](VBA_D17.md) |
 | D18 | Do Until Loop | [VBA_D18.md](VBA_D18.md) |
 | D19 | For Loop Project – Remove Blank Rows | [VBA_D19.md](VBA_D19.md) |
