@@ -148,12 +148,32 @@ Let’s **Code. Automate. Excel.** 🚀
 
 ## 📬 Connect with Me 
 
-- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
-- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
-- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
-- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+<!-- Typing Animation / 🤝 Connect with me -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
-🤝 *Thanks for visiting my profile!*  
+<div align="center">
+<!-- 💼 LinkedIn -->
+<a href="https://www.linkedin.com/in/rajeevtiwari8055"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+<!-- 📮 Gmail -->
+<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"></a>
+<!-- ✖️ X -->
+<a href="https://x.com/rajeevtiwariRT" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35"></a>  
+<!-- 🆔 GitHub -->
+<a href="https://github.com/rajeevtiwari8055" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"></a>
+<!-- 🌐 Website -->
+<a href="https://rajeevtiwari8055.github.io/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"></a>
+</div>
+
+<!-- Typing Animation / 🤝 Thanks for Visiting! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg)
+
+<!-- ⭐💫 Shower stars if you like my repos -->
+<div align="center">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+<a href="https://github.com/rajeevtiwari8055/rajeevtiwari8055" alt="GitHub Stars" title="Star my repositories">
+<img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+</a>
+</div>
 
 ---
 
